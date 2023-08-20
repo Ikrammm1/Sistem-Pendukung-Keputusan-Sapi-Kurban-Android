@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SawSapi</string>
+    <string-array name="kecacatan">
+        <item>Cacat</item>
+        <item>Tidak Cacat</item>
+    </string-array>
+    <string-array name="perilaku">
+        <item>Normal</item>
+        <item>Tidak Normal</item>
+    </string-array>
+    <string-array name="jk">
+        <item>Jantan</item>
+        <item>Betina</item>
+    </string-array>
+</resources>
